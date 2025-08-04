@@ -434,8 +434,8 @@ const NetStanTechnology = () => {
               <h4 className="footer-section-title">Contact</h4>
               <ul className="footer-links">
                 <li>support@netstantechnology.com</li>
-                <li>+2349154416169</li>
-                <li>+2347035385554</li>
+                <li>+234 9154416169</li>
+                <li>+234 7035385554</li>
                 <li>24/7 Live Chat</li>
                 <li>Help Center</li>
               </ul>
