@@ -15,7 +15,7 @@ const Header = () => {
           {/* Logo and Title */}
           <div className="header-brand">
             <img
-              src="/netstan-logo.png"
+              src="/netstan.png"
               alt="Netstan Technology Logo"
               className="header-logo"
             />
